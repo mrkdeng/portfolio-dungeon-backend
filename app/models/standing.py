@@ -1,4 +1,3 @@
-import json
 from pydantic import BaseModel
 
 TEAM_ID_INDEX = 2
